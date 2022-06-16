@@ -5,4 +5,4 @@
 [submodule "limine"]
 	path = limine
 	url = https://github.com/limine-bootloader/limine
-	branch = latest-binary
+	branch = v3.0-branch-binary
